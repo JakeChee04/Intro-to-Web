@@ -1,0 +1,16 @@
+ h2{
+    color:pink;
+    font-family: 'Nunito Sans',Helvetica,sans-serif;
+}
+
+img{
+    border-width:20px;
+}
+
+ol,ul{
+    list-style: none;
+}
+
+a{
+    text-decoration: none;
+}
