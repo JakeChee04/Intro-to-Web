@@ -239,7 +239,6 @@ header h1{
 
 .about .container div:nth-of-type(2){
     height: 100%;
-    background-image: url("../Images/About\ Me.jpeg");
     background-size: cover;
     position:absolute;
     margin-left: 16px;
@@ -340,6 +339,6 @@ footer{
 
 footer i{
     font-size: 15px;
-    margin-left: 0px;
-    margin-right: 0px;
+    margin-left: 0;
+    margin-right: 5px;
 }
